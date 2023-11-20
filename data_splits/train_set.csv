@@ -1,0 +1,5 @@
+Image_path,Mask_path
+/Users/andersrosengaard/anaconda3/envs/pytorch_env/myProjects/DL_Assigment3/data/nifti/0001_20131002_152839.nii,/Users/andersrosengaard/anaconda3/envs/pytorch_env/myProjects/DL_Assigment3/data/nifti/labels/0001_20131002_152839.nii
+/Users/andersrosengaard/anaconda3/envs/pytorch_env/myProjects/DL_Assigment3/data/nifti/0002_20131017_100605.nii,/Users/andersrosengaard/anaconda3/envs/pytorch_env/myProjects/DL_Assigment3/data/nifti/labels/0002_20131017_100605.nii
+/Users/andersrosengaard/anaconda3/envs/pytorch_env/myProjects/DL_Assigment3/data/nifti/0003_20131017_123130.nii,/Users/andersrosengaard/anaconda3/envs/pytorch_env/myProjects/DL_Assigment3/data/nifti/labels/0003_20131017_123130.nii
+/Users/andersrosengaard/anaconda3/envs/pytorch_env/myProjects/DL_Assigment3/data/nifti/0004_20131016_122002.nii,/Users/andersrosengaard/anaconda3/envs/pytorch_env/myProjects/DL_Assigment3/data/nifti/labels/0004_20131016_122002.nii
